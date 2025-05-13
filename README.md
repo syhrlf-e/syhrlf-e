@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: I love turning simple ideas into clean, functional websites.
 
-##### My Skills
+#### Tech Stack :
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,vue&theme=dark)](https://skillicons.dev)
