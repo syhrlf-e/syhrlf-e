@@ -1,4 +1,4 @@
-## Yo'Hai!! I'm Syahrul Efendi👋
+## eYo'Hai!! I'm Syahrul Efendi👋
 
 ![syahrul efendi](./asset/bg1.png)
 
@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning framework Front-End **Vue** and **React**
 - 💬 Ask me about ...
+- ⚡ Fun fact: I love turning simple ideas into clean, functional websites.
+
+##### My Skills
