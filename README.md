@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 #### Tech Stack :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,vue&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,tailwind,vue&theme=dark)](https://skillicons.dev)
