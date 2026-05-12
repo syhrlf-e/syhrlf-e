@@ -1,4 +1,4 @@
-## eYo'Hai!! I'm Syahrul Efendi👋
+## Hai!! I'm Syahrul Efendi👋
 
 ![syahrul efendi](./asset/bg1.png)
 
