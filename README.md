@@ -1,6 +1,6 @@
-## Hai!! I'm Syahrul Efendi👋
+## Eyyow, Syahrul Efendi, disini👋
 
-![syahrul efendi](./asset/banner.png)
+![syahrul efendi](./asset/bannerNew.png)
 
 <!--
 **syhrlf-e/syhrlf-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
