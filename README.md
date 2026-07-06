@@ -1,4 +1,4 @@
-## Eyyow, Syahrul Efendi, disini👋
+## Eyyow Semuanya👋
 
 ![syahrul efendi](./asset/bannerDark.png)
 
